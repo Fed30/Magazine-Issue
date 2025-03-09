@@ -1,0 +1,26 @@
+{
+    "java.project.sourcePaths": [
+        "lib",
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Federico\\OneDrive - University of West London\\Third Year\\ASE\\implementation\\lib\\hamcrest-core-1.3.jar",
+        "c:\\Users\\Federico\\OneDrive - University of West London\\Third Year\\ASE\\implementation\\lib\\junit-4.13.2.jar"
+    ],
+    "java.completion.favoriteStaticMembers": [
+
+
+        "org.junit.Assert.*",
+        "org.junit.assertEqual",
+        "org.junit.Assume.*",
+        "org.junit.Test",
+        "org.junit.Before",
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.jupiter.api.Assumptions.*",
+        "org.junit.jupiter.api.DynamicContainer.*",
+        "org.junit.jupiter.api.DynamicTest.*",
+        "org.mockito.Mockito.*",
+        "org.mockito.ArgumentMatchers.*",
+        "org.mockito.Answers.*"
+    ]
+}
